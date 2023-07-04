@@ -6,7 +6,7 @@ Two notable features of this program are the incorporation of animations for dis
 
 The program allows users to enter ingredients with various units of measurement, such as cups, tablespoons, teaspoons, grams, kilograms, or custom units. It ensures consistent and accurate results by automatically scaling non-custom units. For instance, it can convert grams to kilograms or tablespoons to cups.
 
-Moreover, the program includes error-handling features to prevent crashes or unexpected behavior when users enter invalid input. If a non-numeric value is entered where a numeric value is expected, the program displays an error message and prompts the user to provide valid input.
+Moreover, the program includes error-handling features to prevent crashes or unexpected behaviour when users enter invalid input. If a non-numeric value is entered where a numeric value is expected, the program displays an error message and prompts the user to provide valid input.
 
 ## Getting Started
 
@@ -33,3 +33,6 @@ Once you have installed .NET 7, you should be able to build and run the program 
 ## References
 ### Methods
 WordToDouble - ChatGPT. (2023, April 25). C# method to convert a word to a number (double) [Source code]. https://github.com/ChatGPT/Code-Samples/blob/main/CSharp/WordToDouble.cs
+
+## Lecturer-Based Changes
+Due to feedback received from the lecturer, minimal changes were made to the program. The same features were carried forward to the new GUI
